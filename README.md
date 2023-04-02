@@ -15,10 +15,16 @@ We then trained a logistic regression model using the SMOTE method and evaluated
 To run this project, you will need to install the following libraries:
 
 numpy
+
 pandas
+
 scikit-learn
+
 seaborn
+
 matplotlib
+
+
 Imblearn
 
 You can install them using pip
